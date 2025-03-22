@@ -15,10 +15,10 @@
 4. Merge the changes from the `add_classics` branch into the `main` branch. You will be presented with a code editor to change the commit message. Update the message to start with `E:`
 5. Save the file, and close the editor.
 6. From the `main` branch visualize the branches.
-```
+```bash
 git log --oneline --decorate --graph --parents
 ```
 7. Delete the `add_classics` branch
-```
+```bash
 git branch -d add_classics
 ```

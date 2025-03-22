@@ -28,13 +28,13 @@ I Love Lucy
 Game of Thrones
 ```
 2. After resolving the conflict, stage  the changes and *continue the merge* 
-```
+```bash
 git add .
 git merge --continue
 ```
 >[!Note]  Make the commit message starting with "H: "
 
 3. Delete the `update_classics` branch
-```
+```bash
 git branch -d upadte_classics
 ```

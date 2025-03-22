@@ -1,22 +1,22 @@
 - - -
 1. Use `git branch` to view your current branch
-```
+```bash
 git branch
 ```
 2. Rename the `master` branch to `main`
-```
+```bash
 git branch -m oldname newname
 ```
 2. Create a new branch called "add_classics"
-```
+```bash
 git branch my_new_branch
 ```
 4. Switch to the new branch 
-```
+```bash
 git switch my_new_branch
 ```
 5.  Verify that you are in the new branch
-```
+```bash
 git branch
 ```
 5. Add a new file called `classics.md` and put these contents

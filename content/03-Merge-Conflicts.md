@@ -1,6 +1,6 @@
 - - -
 1. Create a new branch called `update_classics`  and switch to it.
-```
+```bash
 git switch -c update_classics
 ```
 2. While in `update_classics`, replace the last title with `Game of Thrones`, your new `classics.md` should be like this
@@ -23,7 +23,7 @@ The Wire
 ```
 6. Stage the changes and commit with message starting with `G: 
 7. Merge the `update_classics` into `main`
-```
+```bash
 git merge update_classics
 ```
 8. Don't panic!

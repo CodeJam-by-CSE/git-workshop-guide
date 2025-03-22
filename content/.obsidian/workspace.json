@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "06-Git-Remote.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -170,13 +170,13 @@
   },
   "active": "d5a4af797a612641",
   "lastOpenFiles": [
+    "index.md",
+    "06-Git-Remote.md",
     "05-Stash.md",
     "04-Resolving Merge Conflicts.md",
     "03-Merge-Conflicts.md",
     "02-Merge.md",
     "01-Branching.md",
-    "index.md",
-    "06-Git-Remote.md",
     "attachments/Pasted image 20250322110505.png",
     "attachments/Pasted image 20250322084920.png",
     "attachments/Pasted image 20250322084846.png",

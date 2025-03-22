@@ -9,7 +9,7 @@ GitFlix a library of quality television shows
 - quotes: A directory of files containing memorable quotes from shows.
 ```
 2. You realize that the this change is *not needed now* at the same time, *you don't want to loose the changes too*. So you decided  to **stash** the changes.
-```
+```bash
 git stash
 ```
 3. Observe that the contents of the `readme.md` is same as before the changes.
@@ -22,11 +22,11 @@ Wednesday
 Yellowjackets
 ```
 5. Now you realize that the change you stashed would be useful at this point, list down the stashes
-```
+```bash
 git stash list
 ```
 6. There's only one stash in the stack, apply the stash and remove it from the stack 
-```
+```bash
 git stash pop
 ```
 7. Observe that the stashed change is visible now in `readme.md`
